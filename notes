@@ -1,0 +1,6 @@
+anaconda 
+environments with specific libraries and python version
+conda create --name <name>
+conda -n <name> python=3.6 <some libraries>
+conda install -n <name> <libary> to install some additional libraries
+source activate some environment
