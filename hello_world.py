@@ -29,3 +29,4 @@ if __name__ == "__main__":
     monkey.print_monkeys([0,1,2,3,4,5])
     print_palmtrees(5)
     print_rabbit_range(5)
+    print("a")
